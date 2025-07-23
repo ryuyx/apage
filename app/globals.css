@@ -158,12 +158,12 @@ table {
 }
 
 @font-face {
-  font-family: 'Clayborn';
-  src: url('/fonts/Clayborn.ttf') format('truetype');
+  font-family: 'semyon-soviet';
+  src: url('/fonts/Semyon Soviet.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
-.Clayborn {
-  font-family: 'Clayborn', sans-serif;
+.semyon-soviet {
+  font-family: 'semyon-soviet', sans-serif;
 }
